@@ -1,0 +1,12 @@
+.vs
+*.vcxproj
+*.filters
+*.cmake
+*.sln
+_deps
+x64
+RPGForFun.dir
+out
+Debug
+CMakeFiles
+bin
